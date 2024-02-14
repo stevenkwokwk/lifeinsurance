@@ -3,7 +3,7 @@ var chartDataFemale=[];
 var chartData=[];
 
 var planColors = {
-    "Bowtie": "#ff0068",
+    "Bowtie 保泰": "#ff0068",
     // Add more plans and their colors here
     // "PlanName": "ColorCode"
 };
